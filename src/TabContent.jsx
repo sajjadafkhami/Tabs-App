@@ -20,6 +20,8 @@ const TabContent = ({ content }) => {
           style={{
             padding: "20px",
             border: "1px solid #ddd",
+            background : "#cda",
+            color:"blue",
             marginTop: "10px",
             opacity: 0,
             transform: "translateX(-20px)",
